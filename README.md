@@ -4,7 +4,7 @@ A modern, graphical Tic Tac Toe game built with Python and tkinter.
 
 ## Features
 
-- Clean, modern UI with dark theme
+- Clean, modern UI with dark theme.
 - Player turn indicator
 - Win detection with highlighted winning combinations
 - Tie game detection
